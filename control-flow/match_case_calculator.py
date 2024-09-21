@@ -19,7 +19,7 @@ match operation:
             result=num1/num2
             print("The result is",result)
     case _:
-        result=print("Invalid operation entered!")
+        print("Invalid operation entered!")
 
 
     
